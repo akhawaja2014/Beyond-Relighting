@@ -1,0 +1,11 @@
+2025-07-07 15:05:57,914 INFO    MainThread:4888 [wandb_setup.py:_flush():80] Current SDK version is 0.21.0
+2025-07-07 15:05:57,914 INFO    MainThread:4888 [wandb_setup.py:_flush():80] Configure stats pid to 4888
+2025-07-07 15:05:57,915 INFO    MainThread:4888 [wandb_setup.py:_flush():80] Loading settings from C:\Users\imvia\.config\wandb\settings
+2025-07-07 15:05:57,915 INFO    MainThread:4888 [wandb_setup.py:_flush():80] Loading settings from E:\PHD\Project\Papers\Journal_Oseberg\fragmentmatchingcode\wandb\settings
+2025-07-07 15:05:57,915 INFO    MainThread:4888 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-07-07 15:05:57,915 INFO    MainThread:4888 [wandb_init.py:setup_run_log_directory():703] Logging user logs to E:\PHD\Project\Papers\Journal_Oseberg\fragmentmatchingcode\wandb\offline-run-20250707_150557-jf4t5t5z\logs\debug.log
+2025-07-07 15:05:57,916 INFO    MainThread:4888 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to E:\PHD\Project\Papers\Journal_Oseberg\fragmentmatchingcode\wandb\offline-run-20250707_150557-jf4t5t5z\logs\debug-internal.log
+2025-07-07 15:05:57,916 INFO    MainThread:4888 [wandb_init.py:init():830] calling init triggers
+2025-07-07 15:05:57,916 INFO    MainThread:4888 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'epochs': 5, 'batch_size': 8, 'learning_rate': 0.001, 'architecture': 'HSHResNetPipeline', 'dataset': 'FolderHSHDataset', 'split_ratio': [0.7, 0.15, 0.15], 'seed': 42, '_wandb': {}}
+2025-07-07 15:05:57,916 INFO    MainThread:4888 [wandb_init.py:init():871] starting backend
